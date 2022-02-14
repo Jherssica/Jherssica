@@ -1,4 +1,4 @@
-## Olá Mundo,sou Jherssica Carvalho Front end Developer & UI/UX Design!
+## Olá Mundo,sou Jherssica Carvalho Back-end Java Developer.
 <div align="center">
   <a href="https://github.com/jherssica">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jherssica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
